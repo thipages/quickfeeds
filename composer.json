@@ -1,0 +1,21 @@
+{
+  "name": "thipages/quickfeeds",
+  "version": "v0.5.4",
+  "description": "Quick Feeds helper",
+  "type": "library",
+  "keywords" : ["feeds","atom","rss","autodiscover","quick"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Thierry PAGES",
+      "email": "thipages@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-0": {"thipages\\quick\\": "src/"}
+  },
+  "require": {
+    
+  }
+}
