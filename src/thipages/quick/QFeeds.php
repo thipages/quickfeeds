@@ -1,5 +1,7 @@
 <?php
 namespace thipages\quick;
+use DOMDocument;
+use Error;
 class QFeeds {
     const TYPE_RSS='application/rss+xml';
     const TYPE_ATOM='application/atom+xml';
