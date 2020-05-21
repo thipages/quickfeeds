@@ -1,6 +1,6 @@
 {
   "name": "thipages/quickfeeds",
-  "version": "v0.5.4",
+  "version": "v0.0.1",
   "description": "Quick Feeds helper",
   "type": "library",
   "keywords" : ["feeds","atom","rss","autodiscover","quick"],
